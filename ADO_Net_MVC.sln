@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO_Net_MVC", "ADO_Net_MVC\ADO_Net_MVC.csproj", "{EDD72A8E-EC87-4EA0-A897-EA7C34BE1C36}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{EECC38D9-0413-4719-A03C-0098AC868ED5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{EDD72A8E-EC87-4EA0-A897-EA7C34BE1C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDD72A8E-EC87-4EA0-A897-EA7C34BE1C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDD72A8E-EC87-4EA0-A897-EA7C34BE1C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EECC38D9-0413-4719-A03C-0098AC868ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECC38D9-0413-4719-A03C-0098AC868ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECC38D9-0413-4719-A03C-0098AC868ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECC38D9-0413-4719-A03C-0098AC868ED5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFCF44A5-CBF6-496E-8F73-732359AAF2AD}
 	EndGlobalSection
 EndGlobal

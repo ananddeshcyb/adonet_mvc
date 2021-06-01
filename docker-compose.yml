@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  ado_net_mvc:
+    image: ${DOCKER_REGISTRY-}adonetmvc
+    build:
+      context: .\ADO_Net_MVC
+      dockerfile: Dockerfile

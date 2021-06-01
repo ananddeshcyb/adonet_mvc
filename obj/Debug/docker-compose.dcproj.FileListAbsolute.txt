@@ -1,0 +1,17 @@
+C:\Users\ananddesh\Desktop\ADo_net\bin\Debug\ADO_Net_MVC.dll
+C:\Users\ananddesh\Desktop\ADo_net\bin\Debug\System.Web.Mvc.dll
+C:\Users\ananddesh\Desktop\ADo_net\bin\Debug\System.Web.Razor.dll
+C:\Users\ananddesh\Desktop\ADo_net\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ananddesh\Desktop\ADo_net\bin\Debug\System.Web.WebPages.dll
+C:\Users\ananddesh\Desktop\ADo_net\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ananddesh\Desktop\ADo_net\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ananddesh\Desktop\ADo_net\bin\Debug\ADO_Net_MVC.pdb
+C:\Users\ananddesh\Desktop\ADo_net\bin\Debug\ADO_Net_MVC.dll.config
+C:\Users\ananddesh\Desktop\ADo_net\bin\Debug\System.Web.Mvc.xml
+C:\Users\ananddesh\Desktop\ADo_net\bin\Debug\System.Web.Razor.xml
+C:\Users\ananddesh\Desktop\ADo_net\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ananddesh\Desktop\ADo_net\bin\Debug\System.Web.WebPages.xml
+C:\Users\ananddesh\Desktop\ADo_net\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ananddesh\Desktop\ADo_net\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\ananddesh\Desktop\ADo_net\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\ananddesh\Desktop\ADo_net\obj\Debug\docker-compose.dcproj.CopyComplete
